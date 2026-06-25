@@ -1,0 +1,4 @@
+google-genai
+tiktoken
+python-dotenv
+colorama
